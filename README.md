@@ -1,2 +1,6 @@
-# programming-snippets
-Well-written code and other code-snippets
+# GitLab
+
+This repository has moved to GitLab:
+
+https://gitlab.com/olof-nord/code-snippets
+
